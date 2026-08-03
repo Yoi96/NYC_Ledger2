@@ -1,0 +1,5 @@
+Force Vercel redeploy
+
+This file was added to trigger a redeploy.
+
+Timestamp: 2026-08-03T00:00:00Z

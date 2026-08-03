@@ -1,0 +1,11 @@
+{
+  "name": "NYC Ledger",
+  "description": "NYC Ledger is a smart expense tracking application for NYC residents featuring AI receipt scanning and NYC tax exemptions.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
