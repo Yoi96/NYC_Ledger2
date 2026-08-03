@@ -1,4 +1,4 @@
 git clone https://github.com/Yoi96/NYC_Ledger2
 cd NYC_Ledger2
-python script.py .json
-node index.js path/to/your/file.json
+python script.py package.json
+node index.js package.json
